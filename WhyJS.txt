@@ -1,0 +1,10 @@
+What JS can do :
+
+1- Remember the data on the client-side
+2- show messages.
+3- Modify styles like adding animation
+
+what JS can't do :
+
+1- can't Write to Files in the Client and in the Servers
+2- can't read any information from other open windows a
